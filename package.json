@@ -20,7 +20,6 @@
     "!dist/dev",
     "!dist/site"
   ],
-  "type": "module",
   "dependencies": {
     "@skax/picker": "1.0.0-beta.2",
     "autoprefixer": "10.4.21",
